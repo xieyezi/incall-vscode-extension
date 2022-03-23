@@ -4,7 +4,7 @@
 
    
 <p align="center">
-<img src="./logo.png" height="150">
+<img src="./icon.png" height="150">
 </p>
 
 <h1 align="center">Incall package template <sup>VS Code</sup></h1>
