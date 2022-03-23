@@ -4,7 +4,7 @@
 	"description": "incall generate package template from xieyezi",
 	"version": "0.0.1",
 	"publisher": "xieyezi",
-	"icon": "logo.png",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.65.0"
 	},
@@ -16,6 +16,10 @@
 		"*"
 	],
 	"main": "./dist/extension.js",
+	"repository": {
+		"url": "https://github.com/xieyezi/incall-vscode-extension"
+	},
+	"homepage": "https://github.com/xieyezi/incall-vscode-extension",
 	"scripts": {
 		"vscode:prepublish": "yarn run package",
 		"compile": "webpack",
