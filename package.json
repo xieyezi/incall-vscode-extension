@@ -1,7 +1,7 @@
 {
 	"name": "incall-package-template",
 	"displayName": "incall-package-template",
-	"description": "generate incall package template from xieyezi",
+	"description": "incall generate package template from xieyezi",
 	"version": "0.0.1",
 	"publisher": "xieyezi",
 	"icon": "logo.png",
