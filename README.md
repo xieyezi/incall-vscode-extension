@@ -4,9 +4,14 @@
 
 <h1 align="center">incall vscode extension <sup>VS Code</sup></h1>
 
-一个前端 vscode 插件，帮助快速建立组件文件目录和基础代码.
+<p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=xieyezi.incall-package-template" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/xieyezi.incall-package-template.svg?color=eee&amp;label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+</p>
 
-<img src="https://s2.loli.net/2022/03/25/9iTdZ54rw6buyLA.gif" height="400">
+<p align="center">
+一个前端 vscode 插件，帮助快速建立组件文件目录和基础代码.<br>
+<a href="https://s2.loli.net/2022/03/25/9iTdZ54rw6buyLA.gif">GIF Demo</a>
+</p>
 
 #### 使用
 
